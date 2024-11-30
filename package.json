@@ -1,0 +1,9 @@
+{
+  "name": "Tech-Forge-4-Atividades",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  }
+}
